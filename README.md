@@ -13,9 +13,8 @@
 
 #### Pizzas
 
-Pizza de Calabreza
-
-Pizza de mozzarela
+- Pizza de Calabreza
+- Pizza de mozzarela
 
 
 _criado por wilson seabra_
